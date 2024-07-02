@@ -10,6 +10,7 @@
 
     
   [![GitHub Streak](https://streak-stats.demolab.com/?user=SahilAslam)](https://git.io/streak-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilAslam&show_icons=true&theme=transparent)
   
   
   I am a Full Stack MERN Developer with a strong foundation in web development. Proficient in JavaScript, ReactJS, NodeJS, ExpressJS, and MongoDB, I have hands-on experience in creating dynamic, responsive web applications from scratch. My expertise includes developing advanced layouts, enhancing existing systems, and working with RESTful APIs. I thrive in collaborative environments and am passionate about building efficient, scalable solutions.
