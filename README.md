@@ -5,7 +5,7 @@
 I am a Full Stack MERN Developer with a strong foundation in web development. Proficient in JavaScript, ReactJS, NodeJS, ExpressJS, and MongoDB, I have hands-on experience in creating dynamic, responsive web applications from scratch. My expertise includes developing advanced layouts, enhancing existing systems, and working with RESTful APIs. I thrive in collaborative environments and am passionate about building efficient, scalable solutions.
 
 [![Gmail Badge](https://img.shields.io/badge/-sahilaslam14-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sahilaslam14@gmail.com)](mailto:sahilaslam14@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-sahilaslam14-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=mailto:https://www.linkedin.com/in/sahilaslam)](mailto:https://www.linkedin.com/in/sahilaslam)
+[![LinkedIn Badge](https://img.shields.io/badge/-sahilaslam14-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sahilaslam)](https://www.linkedin.com/in/sahilaslam)
 
 <!--
 **SahilAslam/SahilAslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
