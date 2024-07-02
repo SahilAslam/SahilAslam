@@ -9,9 +9,11 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=F77808&center=true&vCenter=true&random=false&width=500&height=60&lines=A+Full+Stack+Developer;A+Web+Developer)](https://git.io/typing-svg)
 
     
-  [![GitHub Streak](https://streak-stats.demolab.com?user=SahilAslam&theme=gruvbox)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=SahilAslam&theme=default)](https://git.io/streak-stats)
+
+  <!--
   ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilAslam&show_icons=true&theme=gruvbox)
-  
+  -->
   
   I am a Full Stack MERN Developer with a strong foundation in web development. Proficient in JavaScript, ReactJS, NodeJS, ExpressJS, and MongoDB, I have hands-on experience in creating dynamic, responsive web applications from scratch. My expertise includes developing advanced layouts, enhancing existing systems, and working with RESTful APIs. I thrive in collaborative environments and am passionate about building efficient, scalable solutions.
   
